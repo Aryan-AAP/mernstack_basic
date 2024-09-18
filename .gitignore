@@ -1,4 +1,2 @@
-# Ignore .env file in backend
-backend/.env
+
 *.env
-*/.env
