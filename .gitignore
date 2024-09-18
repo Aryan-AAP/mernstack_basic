@@ -1,13 +1,2 @@
-  "ignore": [
-    "frontend/node_modules/**",
-    "backend/node_modules/**",
-    "frontend/.env",
-    "backend/.env"
-  ],
-    "frontend/node_modules/**",
-    "backend/node_modules/**",
-    "frontend/.env",
-    "backend/.env"
-
-
-    
+# Ignore .env file in backend
+backend/.env
